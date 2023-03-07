@@ -27,5 +27,5 @@ setup(name='pynblock',
       
       license='LGPLv2',
       packages=['pynblock'],
-      install_requires=['pycrypto'],
+      install_requires=['pycryptodome'],
       zip_safe=True)
